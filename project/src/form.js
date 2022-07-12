@@ -68,7 +68,7 @@ function Form (props) {
                 <input 
                 name="password"
                 value={formValues.password}
-                type="text"
+                type="password"
                 placeholder="enter password"
                 onChange={onChange}
                 
