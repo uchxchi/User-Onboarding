@@ -1,0 +1,31 @@
+body {
+    background-color: palevioletred;
+}
+.formDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+
+h1{
+    position: relative;
+    left: 30%;
+    padding-bottom: 2rem;
+}
+
+input {
+    display: flex;
+    border: 1.5px solid black;
+    border-radius: 4px;
+    height: 1.5rem;
+    width: 300px;
+    margin: 8px 8px 8px 0;
+   
+}
+
+button{
+    color: black;
+    background-color: white;
+    width: 5rem;
+}
